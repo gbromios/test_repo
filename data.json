@@ -1,5 +1,6 @@
 {
 	"things": 44,
 	"stuff": ["i", "am", "very", "chill"],
-	"cow": {"moo":1, "fly":0, "name": "bessie"}
+	"cow": {"moo":1, "fly":0, "name": "bessie"},
+	"pizza": 100
 }
