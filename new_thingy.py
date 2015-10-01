@@ -1,4 +1,7 @@
 # need a new thingy
+
+import random
+
 class Thingy(object):
 	def foo(self):
 		return 10000
